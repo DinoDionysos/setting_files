@@ -2,6 +2,7 @@
 # -A like -a without . and ..
 # -h human readable file size
 # -1 one line for each file
+# --time-style=iso show time with 08-14 instead Aug 14
 
 alias ll='ls -AlhFX --time-style=iso'
 alias la='ls -AX'
